@@ -1,0 +1,1 @@
+Este software, desenvolvido em Java, tem o objetivo de adquirir os dados coletados pelos sensores e armazenar em um banco de dados.
