@@ -1,0 +1,5 @@
+>>> Warning 203 "main.c" Line 267(1,1): Condition always TRUE
+>>> Warning 216 "main.c" Line 311(0,1): Interrupts disabled during call to prevent re-entrancy:  (@DIV88)
+>>> Warning 202 "main.c" Line 11(5,8): Variable never used:   rs232_errors
+      Memory usage:   ROM=24%      RAM=10% - 13%
+      0 Errors,  3 Warnings.
